@@ -1,0 +1,16 @@
+Experiment_Index,Type,Ventilation_Rate,AMPAS_Interval,conc_ppb,final_vol_ml,sample_time
+1,Impinger,1.5,30,47168.38,20.81,90
+2,Impinger,1.5,30,30746.384,23.67,60
+3,Impinger,1.5,30,30892.637,26.04,60
+4,Impinger,1.5,60,19693.356,23.03,60
+5,Impinger,1.5,60,30974.448,23.70,60
+6,Impinger,1.5,60,27131.262,22.07,60
+7,Impinger,10,60,6423.77,24.20,60
+8,Impinger,10,60,4336.67,24.70,60
+9,Impinger,10,60,4592.273,23.66,60
+10,Impinger,10,30,4568.117,23.63,60
+11,Impinger,10,30,4696.668,23.7,60
+12,Impinger,10,30,4464.051,23.9,60
+13,Impinger,10,30,4884.787,23.8,60
+14,Impinger,10,30,5682.424,23.34,60
+15,Impinger,1.5,60,45326.389,23,60
