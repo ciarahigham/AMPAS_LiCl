@@ -59,7 +59,7 @@ Implements the AMPAS deposition analysis described in the Methods:
 - Computes and plots:
   - CV at each location and mean ± SD CV across locations for each sampling interval and ventilation rate.
   - Deposition ratios between 60 min and 30 min AMPAS samples (60/30), with propagated uncertainty.
-  - A Bland–Altman analysis comparing 60 min vs 30 min deposition rates, summarised per location and ventilation rate (mean difference and 95% limits of agreement shown as horizontal lines).
+  - A Bland–Altman analysis comparing 60 min vs 30 min deposition rates, summarised per ventilation rate (mean difference and 95% limits of agreement shown as horizontal lines).
   - Deposition ratios between 90 mm and 55 mm plates, correcting for extraction volume and including the theoretical plate area ratio as a reference line.
 - Saves all figures as `.png` files in the `output_plots/` directory.
 
