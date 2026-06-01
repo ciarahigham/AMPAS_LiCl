@@ -7,9 +7,9 @@ Dr Ciara A. Higham<sup>1,*</sup>, Andrew Carnegie<sup>1</sup>, Dr Waseem Hiwar<s
 <sup>2</sup> AirSentry Limited, Hermes House, Fire Fly Avenue, Swindon, SN2 2GA, United Kingdom.
 
 
-<sup>*</sup> Corresponding email: ciara.higham@hotmail.co.uk
+<sup>*</sup> Corresponding email: ciara.higham@sheffield.ac.uk
 
-Supporting code and data for "Spatiotemporal Characterisation of Aerosol Deposition under Controlled Ventilation: Performance Evaluation of the AMPAS Device".
+Supporting code and data for "Evaluation of a time-resolved method for aerosol deposition using the AMPAS device and a LiCl tracer".
 
 doi:
 
