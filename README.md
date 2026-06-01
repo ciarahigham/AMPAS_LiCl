@@ -1,4 +1,4 @@
-# **Spatiotemporal Characterisation of Aerosol Deposition under Controlled Ventilation: Performance Evaluation of the AMPAS Device**
+# **Evaluation of a time-resolved method for aerosol deposition using the AMPAS device and a LiCl tracer**
 
 Dr Ciara A. Higham<sup>1,*</sup>, Andrew Carnegie<sup>1</sup>, Dr Waseem Hiwar<sup>1</sup>, Dr Louise Fletcher<sup>1</sup>, Prof. Catherine J. Noakes<sup>1</sup>, Dr Marco-Felipe King<sup>1</sup>
 
